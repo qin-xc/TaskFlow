@@ -1,0 +1,11 @@
+{
+  "name": "taskflow",
+  "version": "0.1.0",
+  "private": true,
+  "description": "TaskFlow —— Copilot 与 Codex 课程的贯穿练习项目（第 1 课初始版）",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test"
+  }
+}
